@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Managua, Nicaragua
 * ✉️  You can contact me at [armejia02@gmail.com](mailto:armejia02@gmail.com)
 * 🚀  I'm currently working on [The Garden Café](http://the-garden-cafe.vercel.app/)
-* 🧠  I'm learning VueJs
+* 🧠  I'm learning React Native
 
 <a href="https://www.github.com/arturoamejia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arturoamejia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
